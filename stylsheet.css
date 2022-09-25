@@ -1,0 +1,48 @@
+
+body{
+    background-image: url(./material/zldaLS.png);
+    background-size: 100% 100%;
+}
+
+#mycanvas{
+    background-image: url(./material/canva.jpeg);
+    border: 50px solid rgb(2, 101, 7);
+    border-radius: 50px;
+    margin-left: 50;
+    margin-left: 29%;
+    margin-top: 5%;
+
+}
+#mydiv{
+    width: 100;
+    height: 100;
+    background-color: aqua;
+    margin: 20px;
+    
+}
+footer{
+    color: rgb(255, 255, 255);
+    padding: 30px 0;
+    font-family: poppins;
+    text-align: center;
+    font-size: 31px;
+  }
+  
+  .copyright{
+    margin-bottom: 0px;
+    font-size: 23px;
+  }
+  
+  .copyright a{
+    font-size: 16px;
+    color: #e73a3a;
+    font-weight: 500;
+
+}
+#imgsnake{
+  
+width: 88rem;
+height: 46rem;    
+    
+
+}
